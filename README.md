@@ -1,4 +1,4 @@
-# Uber-Visualization-Uber V/S Lyft
+ <center><b>Uber Visualization Uber V/S Lyft</b></center>
 Your project is for visulizing the data of uber and lyft comparision.This data is of UK 
 
 Code :
